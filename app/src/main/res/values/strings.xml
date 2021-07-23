@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="step1">To play Tic Tac Toe you will need a 3x3 board as seen in the photo. The aim of the game is to mark spaces on the board alternately until one of the players gets 3 in a row. The line can be horizontal, diagonal or vertical.</string>
+    <string name="step2">One player will use the X symbol and the other will use O. For example, the first player (X) will start playing and will mark his/her symbol on one of the boxes.</string>
+    <string name="step3">Once a player have three in a row, or Tic Tac Toe! Player has won the game.</string>
+    <string name="about">This app is developed in completion as a requirement for the subject further Programming and Problem Solving (CO5025)</string>
+    <string name="created">App developed by: Wan Nor Amirah Bte Hj Wan Mohd Asri (1430692)</string>
+
+</resources>
